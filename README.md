@@ -1,1 +1,2 @@
-# Soldity
+# Solidity
+Repo for all my Solidity projects
